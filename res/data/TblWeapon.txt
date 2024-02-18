@@ -1,0 +1,53 @@
+"AUTOMATONCLAWS"|"MELEE"|"M"||1|0|-2|"D3"|
+"CRACKLINGTENDRILS"|"MELEE"|"M"||1|0|-4|"D6"|
+"DEATHRAY"|"HEAVY"|"R"|"D3"|24|10|-4|"D6"|
+"DOOMSDAYCANNONHIGH"|"HEAVY"|"R"|"D3"|72|10|-5|"D3"|"Must not have moved in preceding movement phase"
+"DOOMSDAYCANNONLOW"|"HEAVY"|"R"|"D3"|24|8|-2|"D6"|
+"ELDRITCHLANCEM"|"MELEE"|"M"||1|0|-2|"1"|
+"ELDRITCHLANCER"|"ASSAULT"|"R"|"1"|36|8|-4|"D6"|
+"EMPATHICOBLITERATOR"|"MELEE"|"M"||1|2|-1|"D3"|
+"FEEDERMANDIBLES"|"MELEE"|"M"||1|0|0|"1"|
+"FLAYERCLAWS"|"MELEE"|"M"||1|0|0|"1"|
+"GAUNTLETOFFIRE"|"ASSAULT"|"R"|"D6"|8|4|0|"1"|"Automatically hits"
+"GAUSSBLASTER"|"RAPID FIRE"|"R"|"1"|24|5|-2|"1"|
+"GAUSSCANNON"|"HEAVY"|"R"|"2"|24|5|-3|"D3"|
+"GAUSSFLAYER"|"RAPID FIRE"|"R"|"1"|24|4|-1|"1"|
+"GAUSSFLAYERARRAY"|"RAPID FIRE"|"R"|"5"|24|4|-1|"1"|
+"GAUSSFLUXARC"|"HEAVY"|"R"|"3"|24|5|-2|"1"|
+"GAZEOFDEATH"|"ASSAULT"|"R"|"D6"|12|0|-4|"D3"|"wounds on 2+, unless vehicle, which is 6+"
+"HEATRAYDISPERSED"|"HEAVY"|"R"|"D6"|8|5|-1|"1"|"Automatically hits"
+"HEATRAYFOCUSED"|"HEAVY"|"R"|"2"|24|8|-4|"D6"|"if within half range, roll 2d6 for damage and discard low"
+"HEAVYGAUSSCANNON"|"HEAVY"|"R"|"1"|36|9|-4|"D6"|
+"HYPERPHASESWORD"|"MELEE"|"M"||1|0|-3|"1"|
+"MASSIVEFORELIMBS"|"MELEE"|"M"||1|0|-1|"D3"|
+"PARTICLEBEAMER"|"ASSAULT"|"R"|"3"|24|6|0|"1"|
+"PARTICLECASTER"|"PISTOL"|"R"|"1"|12|6|0|"1"|
+"PARTICLESHREDDER"|"HEAVY"|"R"|"6"|24|7|-1|"D3"|
+"PARTICLEWHIP"|"HEAVY"|"R"|"6"|24|8|-2|"D3"|
+"RODOFCOVENANT"|"MELEE"|"M"||1|0|-3|"1"|
+"RODOFCOVENANTR"|"ASSAULT"|"R"|"1"|12|5|-3|"1"|
+"SCYTHEOFTHENIGHTBRINGER"|"MELEE"|"M"||1|7|-4|"D6"|"This weapon wounds on a 2+, unless it is targeting a
+VEHICLE, in which case it has a Strength characteristic of 7."
+"STAFFOFLIGHTM"|"MELEE"|"M"||1|0|-2|"1"|
+"STAFFOFLIGHTR"|"ASSAULT"|"R"|"3"|12|5|-2|"1"|
+"STAFFOFTHEDESTROYERM"|"MELEE"|"M"||1|0|-3|"2"|
+"STAFFOFTHEDESTROYERR"|"ASSAULT"|"R"|"3"|18|6|-3|"2"|
+"STAFFOFTOMORROW"|"MELEE"|"M"||1|0|-3|"D3"|"You can re-roll failed hit rolls for this weapon."
+"STARGODFISTS"|"MELEE"|"M"||1|0|-4|"3"|
+"SYNAPTICDISINTEGRATOR"|"RAPID FIRE"|"R"|"1"|24|4|0|"1"|"can target character even if not closest, if roll 6+ on wound, inflict additonal mortal wound"
+"TACHYONARROW"|"ASSAULT"|"R"|"1"|120|10|-5|"D6"|"can only be used once"
+"TESLACANNON"|"ASSAULT"|"R"|"3"|24|6|0|"1"|"Each hit roll of 6+ with this weapon causes 3 hits instead of 1."
+"TESLACARBINE"|"ASSAULT"|"R"|"2"|24|5|0|"1"|"Each hit roll of 6+ with this weapon causes 3 hits instead of 1."
+"TESLADESTRUCTOR"|"ASSAULT"|"R"|"4"|24|7|0|"1"|"Each hit roll of 6+ with this weapon causes 3 hits instead of 1."
+"TESLASPHERE"|"ASSAULT"|"R"|"5"|24|7|0|"1"|"Each hit roll of 6+ with this weapon causes 3 hits instead of 1."
+"TRANSDIMENSIONALBEAMER"|"HEAVY"|"R"|"D3"|12|4|-3|"1"|"Each time you roll a wound roll of 6+ for this weapon, the
+target suffers a mortal wound in addition to any other damage."
+"TWINHEAVYGAUSSCANNON"|"HEAVY"|"R"|"2"|36|9|-4|"D6"|
+"TWINTESLADESTRUCTOR"|"ASSAULT"|"R"|"8"|24|7|0|"1"|"Each hit roll of 6+ with this weapon causes 3 hits instead of 1."
+"VICIOUSCLAWS"|"MELEE"|"M"||1|0|-1|"1"|
+"VOIDBLADE"|"MELEE"|"M"||1|0|-3|"1"|
+"WARSCYTHE"|"MELEE"|"M"||1|2|-4|"2"|
+"WHIPCOILS"|"MELEE"|"M"||1|0|0|"1"|"If the bearer is slain in the Fight phase before it has made its
+attacks, leave the model where it is. When its unit is chosen to
+fight in that phase, it can do so as normal. Once it has done so,
+remove the model from the battlefield."

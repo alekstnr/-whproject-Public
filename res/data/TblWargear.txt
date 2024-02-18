@@ -1,0 +1,5 @@
+"PHYLACTERY"|"Phylactery"|"A model with a phylactery regains D3 lost wounds at the beginning of your turn, rather than 1, from their Living
+Metal ability."
+"RESURRECTIONORB"|"Resurrection Orb"|"If a model has a resurrection orb, once per battle, immediately after you have made your Reanimation Protocols
+rolls, you can make Reanimation Protocol rolls for models from a friendly <DYNASTY> INFANTRYunit within 3""
+of the model."
